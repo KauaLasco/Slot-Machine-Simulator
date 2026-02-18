@@ -1,0 +1,29 @@
+Quanto você deseja depositar? R$1000
+Seu saldo atual é R$1000
+Pressione enter para jogar! (q para sair). 
+Insira o número de linhas para apostar! (1 - 3)? 3
+Quanto você deseja apostar em cada linha? R$200
+Você está apostando R$200 em 3 linhas. O valor total da aposta é igual à R$600!
+# | $ | $
+# | $ | %
+# | % | %
+Você ganhou R$0!
+Você ganhou nas seguintes linhas:
+Seu saldo atual é R$400
+Pressione enter para jogar! (q para sair).
+
+--
+
+How much do you want to deposit? R$1000
+Your current balance is R$1000
+Press enter to play! (q to exit).
+Enter the number of lines to bet on! (1 - 3)? 3
+How much do you want to bet on each line? R$200
+You are betting R$200 on 3 lines. The total bet amount is R$600!
+# | $ | $
+# | $ | %
+# | % | %
+You won R$0!
+You won on the following lines:
+Your current balance is R$400
+Press enter to play! (q to exit).
