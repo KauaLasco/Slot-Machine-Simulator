@@ -54,32 +54,27 @@ This project is an interactive slot machine simulator via terminal, developed in
 
 ## 🎮 Game Rules
 - The slot machine has 3 rows and 3 reels.
-
 - The available symbols are: `$`, `@`, `#`, `%`, with different probabilities and values.
-
 - The player bets on up to 3 lines simultaneously.
-
 - If all the symbols on a line are the same, the player wins the value of the symbol multiplied by the bet.
 
 ## 🧑‍💻 How to Run
 1. Clone the repository:
-
-``bash
+```bash
 git clone https://github.com/KauaLasco/Slot-Machine-Simulator.git
+```
 
 2. Enter the project folder:
-
-``bash
+```bash
 cd Slot-Machine-Simulator
+```
 
 3. Run the Python program:
-
-``bash
+```bash
 python src/main.py
-
+```
 - This command runs the main game file located in the src/ folder.
-
 - If you are using Linux/Mac and have Python 3 installed, you may need to use:
-
-``bash
+```bash
 python3 src/main.py
+```
