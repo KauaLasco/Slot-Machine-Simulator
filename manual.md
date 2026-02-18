@@ -1,6 +1,6 @@
-# Manual Técnico - Simulador de Caça-Níquel
+# 📘 Manual Técnico - Simulador de Caça-Níquel
 
-## Estrutura do Código
+## 🧩 Estrutura do Código
 - `validador_de_vitorias`: verifica linhas vencedoras.
 - `giros_do_caca_niquel`: gera símbolos aleatórios.
 - `print_caca_niquel`: exibe resultado em formato 3x3.
@@ -11,7 +11,7 @@
 - `giros`: mantém o loop das rodadas, validando saldo e apostas até que uma jogada seja realizada.
 - `main`: executa e finaliza o software (loop principal do jogo).
 
-## Fluxo
+## 🔄 Fluxo
 1. Depósito inicial
 2. Escolha de linhas e aposta
 3. Validação de saldo
