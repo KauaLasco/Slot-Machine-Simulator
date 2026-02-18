@@ -1,0 +1,7 @@
+# Nenhuma biblioteca externa é necessária 
+# Apenas Python padrão
+
+--
+
+# No external libraries are required
+# Only standard Python
