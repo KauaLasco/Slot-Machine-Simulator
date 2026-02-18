@@ -154,8 +154,7 @@ def selecionar_opcao(saldo):
             print("Insira um número!")
 
 
-#Essa função serve para executar o programa multiplas vezes.
-#Ela é a base para a execução de todo o software.
+#Essa função serve para manter o loop das rodadas, validando saldo e apostas até que uma jogada seja realizada.
 def giros(saldo):
     linhas = coleta_do_numero_de_linhas()
     while True:
@@ -187,7 +186,7 @@ def giros(saldo):
     return saldo
 
 
-#Função principal "main" para iniciar a execução do software
+#Função principal "main" executa e finaliza o software (loop principal do jogo).
 def main():
     saldo = deposito(0)
     while True:
